@@ -1,3 +1,4 @@
-item: T shirt
-price: 500
-discount: 12
+item:Pant
+price: 600
+discount: 15
+tag: Clothing
